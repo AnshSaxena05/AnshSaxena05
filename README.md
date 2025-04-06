@@ -79,16 +79,15 @@ I love building scalable backend systems, automating pipelines, and deploying di
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSaxena05&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshSaxena05&theme=radical" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSaxena05&layout=compact&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSaxena05&theme=radical" />
 </p>
+
+
+
 
 ---
 

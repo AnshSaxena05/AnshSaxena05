@@ -1,9 +1,9 @@
 ## 👋 Hey there! I'm Ansh Saxena
 
-> "I don't just write code. I build systems that scale, heal, and evolve."
 🚀 Passionate **Java Developer** specializing in **Spring Boot**, **Microservices Architecture**, and **Cloud-Native Development**.  
 I love building scalable backend systems, automating pipelines, and deploying distributed services.
 
+> "I don't just write code. I build systems that scale, heal, and evolve."
 
 ---
 
@@ -69,8 +69,20 @@ I love building scalable backend systems, automating pipelines, and deploying di
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnshSaxena05&show_icons=true&theme=radical&count_private=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSaxena05&layout=compact&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshSaxena05&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSaxena05&layout=compact&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshSaxena05&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshSaxena05&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshSaxena05&theme=radical&no-bg=true&margin-w=15&row=2&column=3" />
 </p>
 
 ---
@@ -80,6 +92,8 @@ I love building scalable backend systems, automating pipelines, and deploying di
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshsaxena05/)
 [![Gmail](https://img.shields.io/badge/-anshsaxena05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshsaxena05@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshSaxena05)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/AnshSaxena05/)
+
 
 ---
 

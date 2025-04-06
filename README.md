@@ -35,11 +35,21 @@ I love building scalable backend systems, automating pipelines, and deploying di
 
 ---
 
+### 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshsaxena05/)
+[![Gmail](https://img.shields.io/badge/-anshsaxena05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshsaxena05@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshSaxena05)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/AnshSaxena05/)
+
+---
+
 ### 💼 Work Experience
 
-**💻 SDET Intern — Cyware**  
+**💻 Intern — Cyware**  
 *Feb 2025 – Present*  
-- Testing and automating cloud-native threat intelligence platforms  
+- Co-ordinating with Backend developer to build Cyber Security platform.
+- Automating cloud-native threat intelligence platforms  
 - Building tools to enhance product stability and performance  
 
 **🛠️ Software Engineering Intern — PreProd Corp**  
@@ -51,9 +61,9 @@ I love building scalable backend systems, automating pipelines, and deploying di
 
 ### 🎓 Certifications
 
-- ✅ [Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](https://catalog-education.oracle.com/)  
-- ✅ [AWS Certified Cloud Practitioner (2024)](https://aws.amazon.com/certification/)  
-- ✅ [Oracle Certified Java Developer (Java SE 11)](https://education.oracle.com/)  
+- ✅ [Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](https://drive.google.com/file/d/18GwnZnsDsbkQ0nG2nih5YTQT5bVQfgVz/view)  
+- ✅ [AWS Certified Cloud Practitioner (2024)](https://drive.google.com/file/d/1ZSLzRdwwAhsOil-gFNgBkpwMt9y66GSO/view)  
+- ✅ [Oracle Certified Java Developer (Java SE 11)](https://drive.google.com/file/d/1qKvUCauBMuDSepwwU7c_IhzL2zRF8aBw/view)  
 
 ---
 
@@ -87,12 +97,7 @@ I love building scalable backend systems, automating pipelines, and deploying di
 
 ---
 
-### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshsaxena05/)
-[![Gmail](https://img.shields.io/badge/-anshsaxena05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshsaxena05@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AnshSaxena05)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/AnshSaxena05/)
 
 
 ---

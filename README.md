@@ -67,7 +67,7 @@ I work at the seam between backend engineering and applied AI: multi-tenant serv
 ### 💼 Work Experience
 
 **💻 Software Engineer — Backend & AI Infrastructure · [Cyware](https://cyware.com)**  
-*Feb 2025 – Present · Bengaluru, India · (joined as an intern, converted to full-time)*
+*Jan 2025 – Present · Bengaluru, India · Full-time*
 
 - Architected **Quarterback**, a production **LangGraph** multi-agent platform that cut analyst threat-triage time by **50%** across **45+ enterprise SOC deployments**, resolving alerts via natural language with tool integrations across VirusTotal, Splunk and CrowdStrike.
 - Designed **AI Engine** (Python, **FastAPI**, ~13K LOC) — a multi-vendor **LLM orchestration** and serving layer routing inference across 4 providers behind one client abstraction, with per-tenant credential isolation, token cost accounting and JSON-schema-forced outputs.

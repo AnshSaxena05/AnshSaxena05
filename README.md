@@ -103,7 +103,7 @@ I work at the seam between backend engineering and applied AI: multi-tenant serv
 
 - ✅ [Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](https://drive.google.com/file/d/18GwnZnsDsbkQ0nG2nih5YTQT5bVQfgVz/view)  
 - ✅ [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1ZSLzRdwwAhsOil-gFNgBkpwMt9y66GSO/view)  
-- ✅ [Oracle Certified Java Developer (Java SE 11)](https://drive.google.com/file/d/1qKvUCauBMuDSepwwU7c_IhzL2zRF8aBw/view)  
+- ✅ [Java Development on Oracle Cloud — Oracle University (certificate of completion, Feb 2024)](https://drive.google.com/file/d/1qKvUCauBMuDSepwwU7c_IhzL2zRF8aBw/view)  
 
 ---
 

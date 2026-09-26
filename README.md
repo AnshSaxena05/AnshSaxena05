@@ -77,7 +77,7 @@ I work at the seam between backend engineering and applied AI: multi-tenant serv
 - Instrumented end-to-end **LLM observability** with **OpenTelemetry**, **Langfuse** and **RAGAS**.
 
 **🛠️ Software Engineering Intern — PreProd Corp**  
-*Jan 2024 – Apr 2024*
+*Nov 2023 – Feb 2024*
 
 - Engineered a production pricing-optimization platform generating **25% business impact** by integrating ML predictions into operational workflows.
 - Designed **PostgreSQL** ETL pipelines processing **2GB+ daily data**; automated feature-engineering workflows, cutting data prep time by **80%**.

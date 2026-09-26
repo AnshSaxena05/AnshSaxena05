@@ -1,5 +1,7 @@
 ## 👋 Hey there! I'm Ansh Saxena
 
+🌐 **Website:** [anshsaxena05.github.io](https://anshsaxena05.github.io/)
+
 🚀 **Software Engineer — Backend & AI Infrastructure** at [Cyware](https://cyware.com), building production **distributed systems** and **LLM/agentic platforms** in **Python**, **Go**, and **Java**.
 
 I work at the seam between backend engineering and applied AI: multi-tenant services, event-driven pipelines, and **RAG** / **multi-agent** systems that actually run in production — not notebooks.
@@ -56,6 +58,7 @@ I work at the seam between backend engineering and applied AI: multi-tenant serv
 
 ### 📬 Let’s Connect
 
+[![Website](https://img.shields.io/badge/-anshsaxena05.github.io-0B5CAD?style=flat-square&logo=githubpages&logoColor=white)](https://anshsaxena05.github.io/)
 [![Gmail](https://img.shields.io/badge/-anshs5103@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anshs5103@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-saxena-1c/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AnshSaxena1/)
@@ -109,7 +112,7 @@ I work at the seam between backend engineering and applied AI: multi-tenant serv
 
 ### ✍️ Writing
 
-- **[IoC → IoB: How AI Is Transforming Cybersecurity](https://medium.com/@anshs5103)** — technical essay on behavioural threat-intelligence architecture
+- **[What If Your CyberSecurity System Knew the Attack Was Coming? (IoC → IoB)](https://medium.com/@anshs5103/what-if-your-cybersecurity-system-knew-the-attack-was-coming-f97b82da327d)** — technical essay on behavioural threat-intelligence architecture
 - Contributor, **OCA IoB Working Group** — open event-schema standards for distributed AI platforms
 
 ---

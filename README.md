@@ -72,12 +72,7 @@ I work at the seam between backend engineering and applied AI: multi-tenant serv
 **💻 Software Engineer — Backend & AI Infrastructure · [Cyware](https://cyware.com)**  
 *Jan 2025 – Present · Bengaluru, India · Full-time*
 
-- Architected **Quarterback**, a production **LangGraph** multi-agent platform that cut analyst threat-triage time by **50%** across **45+ enterprise SOC deployments**, resolving alerts via natural language with tool integrations across VirusTotal, Splunk and CrowdStrike.
-- Designed **AI Engine** (Python, **FastAPI**, ~13K LOC) — a multi-vendor **LLM orchestration** and serving layer routing inference across 4 providers behind one client abstraction, with per-tenant credential isolation, token cost accounting and JSON-schema-forced outputs.
-- Raised tool-dispatch precision from **~60% → 89%** on a 200-case evaluation pipeline by replacing hardcoded routing with a multi-tenant **Weaviate RAG** layer using deterministic upsert IDs for idempotent re-ingest.
-- Built **central-pir** in **Go** with **Hexagonal (Ports-and-Adapters)** architecture — two binaries from one image (HTTP API + worker), schema-per-tenant **PostgreSQL** isolation, and 8 durable **NATS JetStream** consumers.
-- Sustained **100+ QPS at P95 sub-100ms** on a **Java** query-language compiler via query-plan rewrites, connection pooling and index-aware PostgreSQL execution; resolved 229 production bugs (29 critical) on L3 rotation.
-- Instrumented end-to-end **LLM observability** with **OpenTelemetry**, **Langfuse** and **RAGAS**.
+Backend and AI infrastructure work in **Python**, **Go** and **Java**: multi-tenant services, event-driven pipelines, and **LLM orchestration** and **agentic systems** running on **PostgreSQL**, **NATS JetStream** and **Kubernetes**. Details of internal products are not public.
 
 **🛠️ Software Engineering Intern — PreProd Corp**  
 *Nov 2023 – Feb 2024*

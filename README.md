@@ -4,6 +4,8 @@
 
 🚀 **Software Engineer — Backend & AI Infrastructure** at [Cyware](https://cyware.com), building production **distributed systems** and **LLM/agentic platforms** in **Python**, **Go**, and **Java**.
 
+**Backend Engineer (SDE-1 / Software Development Engineer I) | Distributed Systems | Platform Engineering | Low-Latency Java and Go.** Core stack: Java, Go, Python, Spring Boot, Apache Kafka, NATS JetStream, Redis, PostgreSQL, Kubernetes, Docker, Terraform, AWS (Amazon Web Services), OpenTelemetry. Open to backend and platform roles in Bengaluru and Hyderabad, and to relocation (London, New York, Amsterdam).
+
 I work at the seam between backend engineering and applied AI: multi-tenant services, event-driven pipelines, and **RAG** / **multi-agent** systems that actually run in production — not notebooks.
 
 > "I don't just write code. I build systems that scale, heal, and evolve."
@@ -87,7 +89,8 @@ Backend and AI infrastructure work in **Python**, **Go** and **Java**: multi-ten
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**SOC Triage Agent**](https://github.com/AnshSaxena05/cyberSecurity_alert_triage) | Agentic alert-triage service ingesting from 5 SIEM/EDR sources (Splunk, CrowdStrike, GuardDuty, Sentinel), normalising to **OCSF** and running a **LangGraph DAG** with MITRE ATT&CK-routed enrichment | Python · FastAPI · LangGraph · Pydantic · Redis · Langfuse · Ollama · Docker |
+| [**SOC Triage Agent**](https://github.com/AnshSaxena05/cyberSecurity_alert_triage) | Agentic alert-triage service ingesting from 5 SIEM/EDR sources (Splunk, CrowdStrike, GuardDuty, Sentinel), normalising to **OCSF** and running a **LangGraph DAG** with MITRE ATT&CK-routed enrichment | Python · FastAPI · LangGraph · Pydantic · Redis · NATS JetStream · Langfuse · Ollama · Docker. Design record: [RFC 0001](https://github.com/AnshSaxena05/cyberSecurity_alert_triage/blob/main/docs/rfcs/0001-deterministic-first-triage-and-durable-ingest.md) |
+| [**JVM Concurrency Benchmarks**](https://github.com/AnshSaxena05/jvm-concurrency-benchmarks) | JMH microbenchmarks: lock contention (synchronized, ReentrantLock, AtomicLong, LongAdder), a lock-free **SPSC ring buffer** against blocking queues, and allocation-free hot paths with GC profiling across G1, Parallel and ZGC. Results with hardware and flags in the README | Java 21 · JMH · Maven · JUnit 5 |
 | [**Quiz Microservices**](https://github.com/AnshSaxena05/QuestionMicroservice_Service_new) · [(service 2)](https://github.com/AnshSaxena05/Quiz_Service_New) | Quiz platform decomposed into independently deployable **Spring Boot microservices** communicating over REST | Java · Spring Boot · REST · Microservices |
 | [**Banking Microservices**](https://github.com/AnshSaxena05/Accounts-Microservice) · [Cards](https://github.com/AnshSaxena05/Cards-Microservice) · [Loans](https://github.com/AnshSaxena05/Loans-Microservice) | Accounts / Cards / Loans services built as a **Spring Boot microservices** suite | Java · Spring Boot · REST · Docker |
 | [**Bloom Filter**](https://github.com/AnshSaxena05/Bloom-Filter) | From-scratch probabilistic set-membership data structure | Java |
@@ -107,6 +110,7 @@ Backend and AI infrastructure work in **Python**, **Go** and **Java**: multi-ten
 
 ### ✍️ Writing
 
+- **[RFC 0001: deterministic-first LLM alert triage and at-least-once durable ingest](https://github.com/AnshSaxena05/cyberSecurity_alert_triage/blob/main/docs/rfcs/0001-deterministic-first-triage-and-durable-ingest.md)** — design record for the open-source SOC Triage Agent: routing as a table, budgeted agent loop, write-ahead log, idempotency, failure modes
 - **[What If Your CyberSecurity System Knew the Attack Was Coming? (IoC → IoB)](https://medium.com/@anshs5103/what-if-your-cybersecurity-system-knew-the-attack-was-coming-f97b82da327d)** — technical essay on behavioural threat-intelligence architecture
 - Contributor, **OCA IoB Working Group** — open event-schema standards for distributed AI platforms
 

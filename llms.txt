@@ -1,0 +1,14 @@
+# Ansh Saxena (@AnshSaxena05)
+
+> Backend, Distributed Systems, and AI Engineer targeting SDE-1, SDE-2, AI Engineering, and HFT roles.
+
+## Key Engineering Highlights
+- High-Throughput Ingestion: 50,000+ EPS event processing pipeline using Kafka and Redis.
+- Latency Optimization: 73% p95 latency reduction across critical backend paths.
+- AI Query Compilation: Sub-150ms AI query compiler for low-latency retrieval and execution.
+- Graph-RAG Reliability: 42% MTTR reduction via Multi-Hop Graph-RAG retrieval.
+
+## Selected Repositories
+- `graph-rag-latency-benchmarks`: Python micro-benchmark for Multi-Hop Graph-RAG retrieval (66.9% p95 latency reduction, 3.18x QPS speedup).
+- `go-ringbuffer-benchmarks`: Go micro-benchmark comparing Mutex, Buffered Channel, and Lock-Free SPSC Ring Buffer for 50k+ EPS ingestion.
+- `jvm-concurrency-benchmarks`: JVM concurrency micro-benchmarks.
